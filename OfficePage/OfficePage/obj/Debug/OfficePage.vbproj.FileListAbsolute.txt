@@ -1,0 +1,22 @@
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\bin\Debug\OfficePage.exe.config
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\bin\Debug\OfficePage.exe
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\bin\Debug\OfficePage.pdb
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\bin\Debug\OfficePage.xml
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.frm_OfficePage.resources
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.Resources.resources
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.vbproj.GenerateResource.Cache
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.exe
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.xml
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.pdb
+C:\Users\Rizal Hanafiya\AppData\Local\Temporary Projects\OfficePage\obj\Debug\OfficePage.SplashScreen1.resources
+E:\OfficePage\OfficePage\OfficePage\bin\Debug\OfficePage.exe.config
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.exe
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.xml
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.pdb
+E:\OfficePage\OfficePage\OfficePage\bin\Debug\OfficePage.exe
+E:\OfficePage\OfficePage\OfficePage\bin\Debug\OfficePage.pdb
+E:\OfficePage\OfficePage\OfficePage\bin\Debug\OfficePage.xml
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.frm_OfficePage.resources
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.Resources.resources
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.SplashScreen1.resources
+E:\OfficePage\OfficePage\OfficePage\obj\Debug\OfficePage.vbproj.GenerateResource.Cache
